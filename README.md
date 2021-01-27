@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # nexus-lib
 
 > Made with create-react-library
@@ -28,3 +29,6 @@ class Example extends Component {
 ## License
 
 MIT © [vn517wc](https://github.com/vn517wc)
+=======
+# nexus-library
+>>>>>>> 02f6455f157d3ccdad916c3a6b932580b0252ca3
