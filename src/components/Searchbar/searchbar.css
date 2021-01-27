@@ -1,0 +1,32 @@
+.header_searchIcon {
+  color: white;
+  padding: 5px;
+  height: 22px !important;
+  background-color: orange;
+  border-radius: 1px 16px 16px 1px;
+  margin-right: none;
+  border: hidden;
+}
+
+.header_searchInput {
+  height: 26px;
+}
+
+.header_search {
+  display: flex;
+  flex: 1rem;
+  margin: auto;
+  width: 40%;
+  border: 2px;
+  margin-left: 20%;
+  border-top-left-radius: 2rem;
+}
+
+.select-search {
+  width: 8%;
+  border-top-left-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+  border: none;
+  outline: none;
+  height: 32px !important;
+}
